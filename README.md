@@ -37,12 +37,6 @@ downloads/AkaoraInventory.apk
 
 The download button is already linked to this file.
 
-## Contact
-
-Website: www.akaoratechnologies.in  
-Email: akaoratechnologies@gmail.com  
-Phone: +91 9997173138
-
 
 ## Latest machine photo update
 
@@ -63,7 +57,6 @@ Added:
 - Real mobile frame around app screenshots
 - Real SVG Indian flag instead of emoji flag
 - Improved Download page
-- Office address: Near Union Bank, Near Water Tank, Shikarpur, Bulandshahr, Uttar Pradesh
 - Book Now button in top navigation
 - Book Now page with booking form
 - Booking form opens WhatsApp with filled customer details
